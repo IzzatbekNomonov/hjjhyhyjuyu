@@ -1,5 +1,16 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h2 {
+  background-color: brown;
+  text-align: center;
+  color: aliceblue;
+}
+.title {
+    width: 400px;
+    margin:  0 auto;
+
+  background-color: blue;
 }
